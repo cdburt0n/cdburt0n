@@ -2,7 +2,7 @@
 
 <h2>💻 GRC Projects:</h2>
 
-  - [Risk Register](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Risk Register]([https://github.com/cdburt0n/RiskRegisterLab])
   - [Vendor Risk Assessment](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Data Classification Matrix](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Policy Gap Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
