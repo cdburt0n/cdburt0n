@@ -4,12 +4,12 @@
 
   - [ISO 27001 Policy Mapping and Control Testing](https://github.com/cdburt0n/ISO-27001-Policy-Mapping-Control-Testing)
   - [Risk Register](https://github.com/cdburt0n/RiskRegisterLab)
-  - [Vendor Risk Assessment](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data Classification Matrix](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Policy Gap Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [NIST 800-53 Control Map](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Critical Asset Inventory](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Risk Matrix: Phishing Attempt](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vendor Risk Assessment](https://github.com/cdburt0n)
+  - [Data Classification Matrix](https://github.com/cdburt0n)
+  - [Policy Gap Analysis](https://github.com/cdburt0n)
+  - [NIST 800-53 Control Map](https://github.com/cdburt0n)
+  - [Critical Asset Inventory](https://github.com/cdburt0n)
+  - [Risk Matrix: Phishing Attempt](https://github.com/cdburt0n)
   
 
 <h2> 🤳 Connect with me:</h2>
