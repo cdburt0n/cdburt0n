@@ -2,6 +2,7 @@
 
 <h2>💻 GRC Projects:</h2>
 
+  - [ISO 27001 Policy Mapping and Control Testing](https://github.com/cdburt0n/ISO-27001-Policy-Mapping-Control-Testing)
   - [Risk Register](https://github.com/cdburt0n/RiskRegisterLab)
   - [Vendor Risk Assessment](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Data Classification Matrix](https://github.com/joshmadakor1/Algorithms-Practice)
