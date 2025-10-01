@@ -4,7 +4,7 @@
 
   - [Security Awareness Plan](https://github.com/cdburt0n/Security-Awareness-Plan)
   - [ISO 27001 Policy Mapping and Control Testing](https://github.com/cdburt0n/ISO-27001-Policy-Mapping-Control-Testing)
-  - [Risk Register](https://github.com/cdburt0n/RiskRegisterLab)
+  - [Risk Register](https://docs.google.com/spreadsheets/d/1NwcoYwrJ6voAk9D-ibPE8-_esw5yL7b9mFGPFv196Yc/edit?usp=sharing)
   - [Vendor Risk Assessment](https://github.com/cdburt0n)
   - [Data Classification Matrix](https://github.com/cdburt0n)
   - [Policy Gap Analysis](https://github.com/cdburt0n)
